@@ -1,6 +1,6 @@
 # Terraform Modules
 
-[Home](../README.md) /
+[Home](./README.md) /
 
 &nbsp;
 

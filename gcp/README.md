@@ -1,4 +1,4 @@
-# GCP Terraform Modules
+# Terraform Modules for GCP
 
 [Home](../README.md) / [GCP](./README.md)
 
@@ -9,6 +9,8 @@ This repository contains a set of Terraform modules for provisioning resources o
 &nbsp;
 
 ## Modules
+
+The following Terraform modules for GCP are currently available:
 
 * [gke-standard-cluster](./gke-standard-cluster/README.md) - A module for provisioning a standard GKE cluster.
 
